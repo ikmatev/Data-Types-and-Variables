@@ -1,0 +1,6 @@
+C:\Users\ikmat\Documents\Visual Studio 2017\Projects\C#\Data Types and Variables\exam 10\bin\Debug\exam 10.exe.config
+C:\Users\ikmat\Documents\Visual Studio 2017\Projects\C#\Data Types and Variables\exam 10\bin\Debug\exam 10.exe
+C:\Users\ikmat\Documents\Visual Studio 2017\Projects\C#\Data Types and Variables\exam 10\bin\Debug\exam 10.pdb
+C:\Users\ikmat\Documents\Visual Studio 2017\Projects\C#\Data Types and Variables\exam 10\obj\Debug\exam 10.csprojResolveAssemblyReference.cache
+C:\Users\ikmat\Documents\Visual Studio 2017\Projects\C#\Data Types and Variables\exam 10\obj\Debug\exam 10.exe
+C:\Users\ikmat\Documents\Visual Studio 2017\Projects\C#\Data Types and Variables\exam 10\obj\Debug\exam 10.pdb
